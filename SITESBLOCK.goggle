@@ -1,0 +1,72 @@
+! name: Garbage filter
+! description: remove trash
+! public: true
+! author: Me
+! avatar: #414040
+
+! The List
+$discard,site=foxnews.com
+$discard,site=fox13now.com
+$discard,site=telegraph.co.uk
+$discard,site=timesofisrael.com
+$discard,site=independent.co.uk
+$discard,site=dailymail.co.uk
+$discard,site=dailytelegraph.com.au
+$discard,site=nytimes.com
+$discard,site=salon.com
+$discard,site=politico.com
+$discard,site=politico.eu
+$discard,site=nypost.com
+$discard,site=cbsnews.com
+$discard,site=cnbc.com
+$discard,site=cbc.com
+$discard,site=cbc.ca
+$discard,site=msnbc.com
+$discard,site=msn.com
+$discard,site=businessinsider.com
+$discard,site=wsj.com
+$discard,site=thehill.com
+$discard,site=cnn.com
+$discard,site=businessinsider.com
+$discard,site=huffpost.com
+$discard,site=washingtonpost.com
+$discard,site=euronews.com
+$discard,site=abcnews.go.com
+$discard,site=abc4.com
+$discard,site=abc7.com
+$discard,site=abc.com
+$discard,site=rationalwiki.org
+$discard,site=france24.com 
+$discard,site=forbes.com
+$discard,site=theguardian.com
+$discard,site=sltrib.com
+$discard,site=deseret.com
+$discard,site=usatoday.com
+$discard,site=bloomberg.com
+$discard,site=splcenter.org
+$discard,site=adl.org
+$discard,site=nbcnews.com
+$discard,site=nbcchicago.com
+$discard,site=nbcwashington.com 
+$discard,site=nbcnewyork.com
+$discard,site=nbc-2.com
+$discard,site=nymag.com
+$discard,site=aljazeera.com
+$discard,site=reuters.com
+$discard,site=canberratimes.com.au
+$discard,site=bbc.com
+$discard,site=vox.com
+$discard,site=voxmagazine.com
+$discard,site=theverge.com
+$discard,site=hrw.org
+$discard,site=washingtonexaminer.com
+$discard,site=seattletimes.com
+$discard,site=thedailybeast.com
+$discard,site=apnews.com
+$discard,site=facebook.com
+$discard,site=instagram.com
+$discard,site=quora.com
+$discard,site=yahoo.com
+$discard,site=news.yahoo.com
+$discard,site=apps.apple.com
+$discard,site=linkedin.com
