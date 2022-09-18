@@ -1,6 +1,6 @@
 ! name: Garbage filter
 ! description: remove trash
-! public: true
+! public: false
 ! author: Me
 ! avatar: #414040
 
